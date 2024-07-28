@@ -1,2 +1,2 @@
-# pytorch_for_dl
+# learn-pytorch
 Learning pytorch
